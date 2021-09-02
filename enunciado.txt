@@ -1,0 +1,8 @@
+Ejercicio testing:
+Testear algunos endpoints de la API que creamos en clase con Mongoose antes de verano(si no recordáis dónde estaba el código fuente, aquí va, pero lo deberíais tener)
+https://github.com/TheBridge-FullStackDeveloper/ft-jun21-BackendJS-examples/tree/main/server_express_CRUD_mongoose
+Testear:
+- GET /. Que devuelva contenido y 200 OK
+- GET /api/products. Que devuelva contenido y 200
+- GET /api/products/2. . Que devuelva contenido y 200
+- POST /api/products. Que se pueda postear un producto a la BBDD mongo a través de su endpoint. Devuelve un 201 created
